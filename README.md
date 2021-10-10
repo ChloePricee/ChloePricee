@@ -1,0 +1,3 @@
+- 👋 Hi, I love sharing codes!
+- 👀 I’m interested in C++, Python, C# etc.
+- 🌱 I’m currently learning C++
